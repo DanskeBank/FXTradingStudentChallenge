@@ -1,5 +1,4 @@
 # FXTrading 
----
 
 ## Introduction
 Foreign Exchange, usually abbreviated Forex or simply FX, is the largest and most liquid market in the world with average daily turnover (traded volume) exceeding trillions of dollars of worth in total. Characteristic of the FX market is that it is decentralized, trades are done over the counter between financial institutes such as banks and it is open 24-7, all year around except for weekends. Money, or cash is the most liquid financial asset in the world which means that money can be bought and sold quickly without affecting the assets price. Compare this to antiquities, say a Chinese vase which might be valued $30,000. If you own such a vase and want to sell it for cash it might take some time to find a buyer willing to pay the full price. If you are in a hurry you might want to lower the price to $25,000 and sell it. This example demonstrates why antiquities are not as liquid as money.
