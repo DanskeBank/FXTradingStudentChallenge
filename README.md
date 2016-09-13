@@ -11,7 +11,7 @@ Danske Bank subscribes to these streams and feeds them into our backend. For eve
 ![alt text](https://github.com/DanskeBank/FXTradingStudentChallenge/blob/master/Progstuga_flowchart.png "Figure 1")
 
 ## Data Description
-Today we provide you with two classes of data aggregated during the time period 20 – 30 June 2016. The first class consists of aggregated spot prices (ticks) for the currency pairs GBP/USD, EUR/USD, EUR/SEK collected from our “tick database”. An example line of one tick together with headers is given by the listing below. From the line you can read tbe line number (Index), currency pair (Symbol), bid price (BID), ask price (ASK), bid size (BIDSIZE) and ask size (ASKSIZE).
+Today we provide you with two classes of data aggregated during the time period 20 – 30 June 2016. The first class consists of aggregated spot prices (ticks) for the currency pairs GBP/USD, EUR/USD, EUR/SEK collected from our “tick database”. An example line of one tick together with headers is given by the listing below. From the line you can read the line number (Index), currency pair (Symbol), bid price (BID), ask price (ASK), bid size (BIDSIZE) and ask size (ASKSIZE).
 
 ```
 Index,Symbol,Time,BID,ASK,BIDSIZE,ASKSIZE
@@ -24,7 +24,7 @@ AmountBuy;AmountSell;CurrencyCodeSell;CurrencyCodeBuy;SpotBase;CreateTime
 ```
  
 ## Challenge Description
-We want this to be a fun, creative and a fairly open challenge which means you are free to do whatever you want with the data. Maybe you are a GUI wizard and want to write a beautiful interface where various statistics of the data is displayed as plots and/or histograms? Or maybe you are more of an algorithmic person who prefers to crunch raw arcane numbers out of the data? Go ahead and do you thing! **Our only requirement is that you at least use one currency pair from the tick data.** You are free to work in pairs/small groups, if you are a lone gunman and prefer to work alone that is also fine. Regarding allowed tools, language etc. you can choose whatever makes sense to you. At Danske Banks GitHub repo you can find all the data and some example code written in Java to start from (if you want).
+We want this to be a fun, creative and a fairly open challenge which means you are free to do whatever you want with the data. Maybe you are a GUI wizard and want to write a beautiful interface where various statistics of the data is displayed as plots and/or histograms? Or maybe you are more of an algorithmic person who prefers to crunch raw arcane numbers out of the data? Go ahead and do your thing! **Our only requirement is that you at least use one currency pair from the tick data.** You are free to work in pairs/small groups, if you are a lone gunman and prefer to work alone that is also fine. Regarding allowed tools, language etc. you can choose whatever makes sense to you. At Danske Banks GitHub repo you can find all the data and some example code written in Java to start from (if you want).
 
 ## Ideas
 To give you some inspiration we have compiled a list of ideas of what one could do with the data.
